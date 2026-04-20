@@ -13,3 +13,5 @@ git push -u origin main
 
 git config --global user.email ""
 git config --global user.name "name"
+
+http://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
