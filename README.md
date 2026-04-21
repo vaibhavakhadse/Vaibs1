@@ -46,3 +46,4 @@ mail-id = "clouddevopshub@gmail.com"
 
 
 https://github.com/videolan/vlc/fork
+ git config --global --list
